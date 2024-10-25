@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48863614162",
+    "project_id": "fb-firebase1234",
+    "storage_bucket": "fb-firebase1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48863614162:android:9f62b65d85792be5a5090b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn5BSLgXXXSqj2-PKnDLe9OU0Cyhxpjfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
